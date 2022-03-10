@@ -14,6 +14,10 @@
 ## API Consumida:
 (https://coronavirus-19-api.herokuapp.com/countries)
 
+# Preview: 
+![covid19-api](https://user-images.githubusercontent.com/95232367/157761613-faa90885-5abd-4d41-831d-ea2d7ad781de.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
